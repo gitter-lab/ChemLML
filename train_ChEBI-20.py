@@ -56,7 +56,7 @@ def main(rank, args):
     corrected_smiles = []
     corrected_corpus = []
     import csv
-    with open("data/train.txt") as f:
+    with open("ChEBI-20/train.txt") as f:
         reader = csv.DictReader(f, delimiter="\t", quoting=csv.QUOTE_NONE, fieldnames=['cid', 'SMILES', 'description'])
         for n, line in enumerate(reader):
             try:
@@ -72,7 +72,7 @@ def main(rank, args):
     corrected_smiles = []
     corrected_selfies = []
     corrected_corpus = []
-    with open("data/validation.txt") as f:
+    with open("ChEBI-20/validation.txt") as f:
         reader = csv.DictReader(f, delimiter="\t", quoting=csv.QUOTE_NONE, fieldnames=['cid', 'SMILES', 'description'])
         for n, line in enumerate(reader):
             try:

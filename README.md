@@ -45,7 +45,7 @@ ChemLML uses the following models from Hugging Face:
 - Text+Chem T5: https://huggingface.co/GT4SD/multitask-text-and-chemistry-t5-base-standard
 - MolGen: https://huggingface.co/zjunlp/MolGen-large
 - MolGen-7B: https://huggingface.co/zjunlp/MolGen-7b
-- Fine-tuned LLaMA2-7B: https://huggingface.co/zjunlp/llama2-molinst-molecule-7b
+- Fine-tuned LLaMA2-7B: https://huggingface.co/zjunlp/llama2-molinst-molecule-7b In order to use LLaMA, please refer to the access request at https://huggingface.co/meta-llama/Llama-2-7b-hf. Then copy and paste the huggingface token to line 37 in model.py
 - SCIBERT: https://huggingface.co/allenai/scibert_scivocab_uncased
 - Galactica series: https://huggingface.co/facebook/galactica-125m
 
