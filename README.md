@@ -28,6 +28,8 @@ PubChem_unfiltered must be downloaded from Zenodo into the PubChem subdirectory 
 
 To evaluate the result, run `python evaluation/fingerprint_metrics.py` and specify the test file.
 
+The pretrained ChemLML models are available on [Zenodo](https://zenodo.org/doi/10.5281/zenodo.11661517).
+
 ## Citation
 Chemical Language Model Linker: blending text and molecules with modular adapters  
 Y. Deng, S. S. Ericksen, A. Gitter (2024)
