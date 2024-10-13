@@ -1,5 +1,5 @@
 # Chemical Language Model Linker
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13925650.svg)](https://zenodo.org/doi/10.5281/zenodo.13925650)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13925649.svg)](https://zenodo.org/doi/10.5281/zenodo.13925649)
 
 ## Running the code
 First, install the dependencies from `requirements.txt`, preferably in a virtual environment.
