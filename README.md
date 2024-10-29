@@ -32,8 +32,9 @@ To evaluate the result, run `python evaluation/fingerprint_metrics.py` and speci
 The pretrained ChemLML models are available on [Zenodo](https://zenodo.org/doi/10.5281/zenodo.11661517).
 
 ## Citation
-Chemical Language Model Linker: blending text and molecules with modular adapters  
-Y. Deng, S. S. Ericksen, A. Gitter (2024)
+[Chemical Language Model Linker: blending text and molecules with modular adapters](https://arxiv.org/abs/2410.20182)  
+Yifan Deng, Spencer S. Ericksen, Anthony Gitter (2024)  
+arXiv:2410.20182 [cs.LG]
 
 ## Datasets
 See the `ChEBI-20` and `PubChem` dataset subdirectories for details and licenses.
