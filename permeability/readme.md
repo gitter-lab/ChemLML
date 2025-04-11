@@ -1,0 +1,2 @@
+# MDR1-MRCK ER prediction model
+For the model training and inference, please check repo: https://github.com/molecularinformatics/Computational-ADME and paper *[Prospective Validation of Machine Learning Algorithms for ADME Prediction: An Industrial Perspective](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.3c00160)*
