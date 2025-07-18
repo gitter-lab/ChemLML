@@ -13,6 +13,7 @@ LSD1      Med1    O60341  6NQU
 AChE      Low0    P22303  4EY5
 TOPIIB    Low1    Q02880  4G0U
 ```
+Seven of the FDA-approved drugs, such as Diastase, do not have SMILES in the original Selleck dataset.
 
 `docking_results_8targs_chemlml_smi.pkl` contains this information as a Python pickle file.
 
