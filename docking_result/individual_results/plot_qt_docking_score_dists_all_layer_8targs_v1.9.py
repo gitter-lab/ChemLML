@@ -22,7 +22,7 @@ targ_idx = int(targ[-1])
 targ_name = targ_dict[targ]
 
 # get raw scores
-df1 = pd.read_pickle('/home/ssericksen/disk2/Dropbox/DDC/ProjectsTemp/Gitter-R01/yifan/chemLML_work/dock_generated_baseline_ensembles2/scores_renamed/docking_results_8targs_chemlml_smi.pkl')
+df1 = pd.read_pickle('../docking_results_8targs_chemlml_smi.pkl')
 df1 = df1.loc[ df1['target'] == targ ]
 
 if targ_idx == 0:
